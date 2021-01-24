@@ -1,14 +1,14 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Design Project - Web Visualization Dashboard (Latitude)
 
 ## Background
 
-Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
+Data is more powerful when we share it with others! Let's take what I've did about HTML and CSS to create a dashboard showing off the analysis I've done.
 
 ![Images/landingResize.png](Images/landingResize.png)
 
-### Before You Begin
+### instractions before I Begin:
 
-1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**.
+1. Create a new repository for this project called `Web-Design-Challenge`.
 
 2. Clone the new repository to your computer.
 
@@ -22,9 +22,9 @@ Data is more powerful when we share it with others! Let's take what we've learne
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
+For this project I created a visualization dashboard website using visualizations I've created in a privous project. Specifically, I ploted [weather data](Resources/cities.csv).
 
-In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
+In building this dashboard, I create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. I also had created a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
 ### Website Requirements
 
@@ -55,20 +55,16 @@ The website must, at the top of every page, have a navigation menu that:
 * Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
 * Is responsive (using media queries). The nav must have similar behavior as the screenshots ["Navigation Menu" section](#navigation-menu) (notice the background color change).
 
-Finally, the website must be deployed to GitHub pages.
+Finally, the website deployed to GitHub pages.
 
-When finished, submit to BootcampSpot the links to 1) the deployed app and 2) the GitHub repository.
-
-### Considerations
+### Considerations I used to finsh the project correctly;
 
 * You may use the [weather data](Resources/cities.csv) or choose another dataset. Alternatively, you may use the included [cities dataset](Resources/cities.csv) and pull the images from the [assets folder](Resources/assets).
 * You must use Bootstrap. This includes using the Bootstrap `navbar` component for the header on every page, the bootstrap table component for the data page, and the Bootstrap grid for responsiveness on the comparison page.
 * You must deploy your website to GitHub pages, with the website working on a live, publicly accessible URL as a result.
 * Be sure to use a CSS media query for the navigation menu.
 * Be sure your website works at all window widths/sizes.
-* Feel free to take some liberty in the visual aspects, but keep the core functionality the same.
-
-### Bonuses
+* Feel free to take some liberty in the visual aspects, but keep the core functionality the same
 
 * Use a different dataset! The requirements above still hold, but make it your own.
 * Use a Bootstrap theme to customize your website. You may use a tool like [Bootswatch](https://bootswatch.com/). Make it look snazzy, give it some attitude. If using this, be sure you also meet all of the requirements listed above.
@@ -132,6 +128,4 @@ Large screen:
 Small screen:
 ![nav menu small screen](Images/nav-sm.png)
 
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
+## enjoy
